@@ -3,7 +3,7 @@
 <html lang="en-ca">
   <head>
     <meta charset="utf-8" />
-    <meta name="description" content="My webpage, in PHP" />
+    <meta name="description" content="Hello, World!, PHP" />
     <meta name="keywords" content="mths, icd2o" />
     <meta name="author" content="Mr. Coxall" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
